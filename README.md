@@ -2,7 +2,7 @@
 
 🔴🟡🟢\
 \
-Galium/The Galium Team is a team of experienced developers who create \
-great pieces of software such as the Galium Client for Garry's mod among many others\
+Galium Team is a team of developers based out of the U.S.A with\
+experience in many programming languages
 \
 🟢🟡🔴
